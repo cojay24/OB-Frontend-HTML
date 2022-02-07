@@ -1,0 +1,86 @@
+body {
+    background-color: #f3f2ef !important;
+}
+
+
+.ob-sub-navbar {
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    height: 52px;
+    background-color: #ffffff;
+    padding: 5px;
+    left: 50%;
+
+}
+
+.ob-search-result-section {
+    background-color: #f3f2ef;
+}
+
+
+
+.nav-link {
+    color: #2b2b2b;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #2b2b2b;
+    background-color: #75E08C;
+}
+
+.btn-secondary {
+    color: #2b2b2b;
+    background-color: #75E08C;
+    border-color: #75E08C;
+}
+
+.btn-secondary:hover {
+    color: #ffffff;
+    background-color: #529d62;
+    border-color: #529d62;
+}
+
+.btn-outline-success {
+    color: #2b2b2b;
+    border-color: #75E08C;
+}
+
+.btn-outline-success:hover {
+    color: #ffffff;
+    background-color: #529d62;
+    border-color: #529d62;
+}
+
+
+h5 {
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.h5, h5 {
+    font-size: 10px;
+}
+
+#hero-logo {
+    height: 90px;
+    margin: 70px 20px 50px 20px;
+}
+
+#view-btn {
+    background-color: #2b2b2b;
+    color: #fff;
+    border-radius: 50px;
+    padding: 5px 10px 5px 10px;
+    border-color: #2b2b2b;
+}
+
+#addtolist-btn {
+    color: #2b2b2b;
+    text-decoration: none;
+}
